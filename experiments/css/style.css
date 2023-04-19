@@ -1,0 +1,38 @@
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid;
+    height: 50px;
+    width: 50px;
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bgRed {
+    background-color: red;
+}
+
+.bgOrange {
+    background-color: orange;
+}
+
+.bgCyan {
+    background-color: cyan;
+}
+
+.bgGreen {
+    background-color: green;
+}
+
+.bgGray {
+    background-color: gray;
+}
