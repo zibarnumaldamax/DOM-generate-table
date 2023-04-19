@@ -1,0 +1,27 @@
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid;
+    height: 30px;
+    width: 30px;
+}
+
+button {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+}
+
+.bgOrange {
+    background-color: orange;
+}
+
+.bgWhite {
+    background-color: white;
+}
